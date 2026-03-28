@@ -1,1 +1,1 @@
-# ROM-projekt
+# Analiza globalnega segrevanja.
