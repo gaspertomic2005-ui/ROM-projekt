@@ -57,3 +57,9 @@ Za uporabo projekta je potreben Wolfram Mathematica oziroma okolje, ki podpira W
 4. Za ponovno pridobivanje podatkov prek `WeatherData` je potrebna internetna povezava.
 
 Projekt uporablja relativne poti, zato naj datoteka `Analiza_globalnega_segrevanja.nb` in mapa `data` ostaneta v enaki strukturi kot v repozitoriju.
+
+## Video predstavitev
+
+Video predstavitev projekta je dostopna na YouTubu:
+
+[Ogled video predstavitve](https://youtu.be/9VceUiwrBT8)
