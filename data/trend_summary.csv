@@ -1,0 +1,5 @@
+"{City : Ljubljana, From : 1990, To : 2024, SlopeCPerDecade : 1.1619631185807644, RSquared : 0.7228530586512253, ObservedTemperatureRangeC : 5.543333333333335}"
+"{City : London, From : 1990, To : 2024, SlopeCPerDecade : 0.43602240896358413, RSquared : 0.3124279762956429, ObservedTemperatureRangeC : 2.612499999999997}"
+"{City : New York, From : 1990, To : 2024, SlopeCPerDecade : 0.12933706816059948, RSquared : 0.037857199718676515, ObservedTemperatureRangeC : 2.412500000000003}"
+"{City : Tokyo, From : 1990, To : 2024, SlopeCPerDecade : 0.17678571428571382, RSquared : 0.1417497487559124, ObservedTemperatureRangeC : 2.284166666666666}"
+"{City : Sydney, From : 1990, To : 2024, SlopeCPerDecade : 0.27621148459383577, RSquared : 0.38206187061324354, ObservedTemperatureRangeC : 1.9166666666666679}"
